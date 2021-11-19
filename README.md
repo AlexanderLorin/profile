@@ -9,7 +9,7 @@
 <body>
   <h1>Alex Lorin</h1>
   <img
-    src="https://static.wikia.nocookie.net/spongebob/images/4/46/SVG_SpongeBob_SquarePants.svg/revision/latest/scale-to-width-down/195?cb=20181117230211"
+    src="https://static.wikia.nocookie.net/spongebob/images/4/46/SVG_SpongeBob_SquarePants.svg"
     alt="Spongebob!" />
 
   <p>I am learning Web from Data Viz Bootcamp</p>
