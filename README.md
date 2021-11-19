@@ -25,7 +25,7 @@
     <table>
       <thead>
         <strong>Interests</strong>
-      </thead>
+      
       <tr>
         <td>Movies</td>
         <td>Songs</td>
