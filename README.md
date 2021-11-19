@@ -20,12 +20,12 @@
     <li><strong><a href="https://www.linkedin.com">LinkedIn</a></strong></li>
     <li><strong><a href="https://www.Facebook.com">Facebook</a></strong></li>
     <li><strong><a href="https://www.Instagram.com">Instagram</a></strong></li>
-    
+  <ol/>
   <h3>Project</h3>
 
   <ol>
     <li><strong><a href="https://alexanderlorin.github.io/Project-1-MKFG/">Covid Mortality Analysis</a></strong></li>
-
+  <ol/>
     <br>
     <br>
     <br>
